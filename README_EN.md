@@ -1,4 +1,4 @@
-# MY PGP PUBLIC KEY | [EN](https://github.com/Zikinn/PGP/blob/main/README_EN.md)
+# MY PGP PUBLIC KEY | [zh_CN](https://github.com/Zikinn/PGP/blob/main/README.md)
 > 🔒 Fingerprint: BF50 ACD8 2604 934D 4CD7  DF35 EC39 5393 AE4E 2077
 
 ```
