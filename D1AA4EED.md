@@ -1,8 +1,13 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Comment: 用户编号:	Zikin <zikin.pgp@gmail.com>
+
 Comment: 连接时间:	01/06/22 21:29
+
 Comment: 文件系统:	4,096 位 RSA(绝密密钥可用)
+
 Comment: 用途:	签名, 仅加密, 正在认证的用户编号, SSH 认证
+
 Comment: 指纹:	64BE92C9AF612C3BF231D7F5766BBC07D1AA4EED
 
 
