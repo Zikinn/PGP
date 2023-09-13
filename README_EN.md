@@ -3,12 +3,6 @@
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	Zikin <i@zikin.org>
-Comment: Created:	2021/4/7 18:40
-Comment: Type:	256-bit EdDSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
-Comment: Fingerprint:	BF50ACD82604934D4CD7DF35EC395393AE4E2077
-
 
 mDMEYG2MOBYJKwYBBAHaRw8BAQdAmIXhTDuVFgcpdVWM1cGhX0MMYadPdNggjH+w
 fv327m+0E1ppa2luIDxpQHppa2luLm9yZz6IkAQTFggAOBYhBL9QrNgmBJNNTNff

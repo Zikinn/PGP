@@ -1,14 +1,9 @@
 # MY PGP PUBLIC KEY | [EN](https://github.com/Zikinn/PGP/blob/main/README_EN.md)
-> 🔒 Fingerprint: BF50 ACD8 2604 934D 4CD7  DF35 EC39 5393 AE4E 2077 / 0xAE4E2077
+
+> 🔒 Fingerprint: BF50 ACD8 2604 934D 4CD7 DF35 EC39 5393 AE4E 2077 / 0xAE4E2077
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: 用户编号:	Zikin <i@zikin.org>
-Comment: 连接时间:	2021/4/7 18:40
-Comment: 文件系统:	256 位 EdDSA(绝密密钥可用)
-Comment: 用途:	签名, 仅加密, 正在认证的用户编号, SSH 认证
-Comment: 指纹:	BF50ACD82604934D4CD7DF35EC395393AE4E2077
-
 
 mDMEYG2MOBYJKwYBBAHaRw8BAQdAmIXhTDuVFgcpdVWM1cGhX0MMYadPdNggjH+w
 fv327m+0E1ppa2luIDxpQHppa2luLm9yZz6IkAQTFggAOBYhBL9QrNgmBJNNTNff
