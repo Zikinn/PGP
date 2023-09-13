@@ -1,5 +1,7 @@
 # MY PGP PUBLIC KEY
 > 🔒 Fingerprint: BF50 ACD8 2604 934D 4CD7  DF35 EC39 5393 AE4E 2077
+>
+> This OpenPGP Public Key is for i@zikin.org
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
